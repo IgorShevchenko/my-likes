@@ -2,6 +2,7 @@
 Resources I liked to read, watch, or use.
 ## Engineering
 * [HTTP Status Codes](https://httpstatuses.com)
+* [Learn Regular Expressions](https://regexone.com/)
 * [How to Write Unmaintainable Code](https://www.doc.ic.ac.uk/~susan/475/unmain.html)
 * [Short, Self Contained, Correct (Compilable) Example](http://sscce.org)
 * [How to Order Versioned File Names Semantically in Java](https://blog.jooq.org/2018/02/23/how-to-order-file-names-semantically-in-java)
