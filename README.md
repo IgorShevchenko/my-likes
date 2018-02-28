@@ -13,6 +13,7 @@ Resources I liked to read, watch, or use.
 ## Miscellaneous
 * [Boost Productivity with Background Noise](https://www.noisli.com)
 * [Learn Regular Expressions](https://regexone.com)
+* [Software Licenses in Plain English](https://tldrlegal.com)
 * [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
 * [All around Time and Date](https://www.timeanddate.com)
 * [Гимнастика для глаз](https://www.visine.ru/stati/gimnastika-dlya-glaz)
