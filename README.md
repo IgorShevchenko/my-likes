@@ -12,6 +12,7 @@ Resources I liked to read, watch, or use.
 * [Yet 4 More Techniques for Writing Better Java](https://dzone.com/articles/yet-4-more-techniques-for-writing-better-java)
 ## Miscellaneous
 * [Boost Productivity with Background Noise](https://www.noisli.com)
+* [Play with Docker](https://labs.play-with-docker.com)
 * [Learn Regular Expressions](https://regexone.com)
 * [Software Licenses in Plain English](https://tldrlegal.com)
 * [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
