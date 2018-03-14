@@ -10,6 +10,7 @@ Resources I liked to read, watch, or use.
 * [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 * [How to Order Versioned File Names Semantically in Java](https://blog.jooq.org/2018/02/23/how-to-order-file-names-semantically-in-java)
 * [Yet 4 More Techniques for Writing Better Java](https://dzone.com/articles/yet-4-more-techniques-for-writing-better-java)
+* [A Guide to Streams: In-Depth Tutorial with Examples](https://dzone.com/articles/a-guide-to-streams-in-java-8-in-depth-tutorial-wit)
 ## Miscellaneous
 * [Boost Productivity with Background Noise](https://www.noisli.com)
 * [Play with Docker](https://labs.play-with-docker.com)
