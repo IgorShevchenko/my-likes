@@ -1,6 +1,6 @@
 # my-likes
 Resources I liked to read, watch, or use.
-## HTTP / REST
+## REST
 * [HTTP Status Codes](https://httpstatuses.com)
 * [Common Mistakes in REST API Design](https://dzone.com/articles/common-mistakes-in-rest-api-design)
 ## Coding
