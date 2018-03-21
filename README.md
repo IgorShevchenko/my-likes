@@ -1,7 +1,8 @@
 # my-likes
 Resources I liked to read, watch, or use.
-## HTTP
+## HTTP / REST
 * [HTTP Status Codes](https://httpstatuses.com)
+* [Common Mistakes in REST API Design](https://dzone.com/articles/common-mistakes-in-rest-api-design)
 ## Coding
 * [How to Write Unmaintainable Code](https://www.doc.ic.ac.uk/~susan/475/unmain.html)
 * [Short, Self Contained, Correct (Compilable) Example](http://sscce.org)
